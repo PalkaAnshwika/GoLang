@@ -1,0 +1,3 @@
+Welcome to GoLang!
+This is the data file.
+Let's read this.
