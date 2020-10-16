@@ -1,3 +1,3 @@
 # GoLang
 
-Some basic functionalities like defer, range, Map, slice, structs etc are implemented.
+Basic functionalities of Go is implemented. Work in progress!
